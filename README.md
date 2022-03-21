@@ -42,11 +42,11 @@ And the table for square bracket:
     <dependency>
         <groupId>xyz.rk0cc.willpub</groupId>
         <artifactId>jpubdev</artifactId>
-        <version>1.0.3</version>
+        <version>1.0.5</version>
     </dependency>
 </dependencies>
 ```
-<p>* this package is bundled <a href="https://github.com/Project-Will-Pub/jpubspec">jpubspec</a> 1.2.2</p>
+<p>* this package is bundled <a href="https://github.com/Project-Will-Pub/jpubspec">jpubspec</a> 2.0.1</p>
 
 ## Setup requirement
 
